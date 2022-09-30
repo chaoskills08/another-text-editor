@@ -1,4 +1,4 @@
-# another-text-editor
+# Just Another Text Editor
 ## Description of project
 This application can be used to write code within a proper text editor.
 ## How to use
